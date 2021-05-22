@@ -1,7 +1,7 @@
 ---
 title: "DataViz Makeover 1"
 description: |
-  A short description of the post. First post!
+  A short description of the post. First post! Submit.
 author:
   - name: Joyce W.
     url: https://www.linkedin.com/in/joycewoonsh/
